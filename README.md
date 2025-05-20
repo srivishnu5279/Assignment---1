@@ -18,6 +18,10 @@ A Streamlit-based web application for managing policyholders, filing insurance c
 
 ---
 
+## Website link to view the project
+
+https://insuranceclaimapp.streamlit.app/
+
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the Repository
@@ -25,3 +29,4 @@ A Streamlit-based web application for managing policyholders, filing insurance c
 ```bash
 git clone https://github.com/your-username/insurance-claims-app.git
 cd insurance-claims-app
+
